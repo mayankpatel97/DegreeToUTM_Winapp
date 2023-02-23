@@ -1,0 +1,17 @@
+D:\software projects\lat_lon_to_utm\navik\navik\bin\Release\net6.0-windows\navik.exe
+D:\software projects\lat_lon_to_utm\navik\navik\bin\Release\net6.0-windows\navik.deps.json
+D:\software projects\lat_lon_to_utm\navik\navik\bin\Release\net6.0-windows\navik.runtimeconfig.json
+D:\software projects\lat_lon_to_utm\navik\navik\bin\Release\net6.0-windows\navik.dll
+D:\software projects\lat_lon_to_utm\navik\navik\bin\Release\net6.0-windows\navik.pdb
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.csproj.AssemblyReference.cache
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.Form1.resources
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.csproj.GenerateResource.cache
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.GeneratedMSBuildEditorConfig.editorconfig
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.AssemblyInfoInputs.cache
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.AssemblyInfo.cs
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.csproj.CoreCompileInputs.cache
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.dll
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\refint\navik.dll
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.pdb
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\navik.genruntimeconfig.cache
+D:\software projects\lat_lon_to_utm\navik\navik\obj\Release\net6.0-windows\ref\navik.dll
